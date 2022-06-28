@@ -3,4 +3,7 @@ theme: readthedocs
 
 site_url: http://a-boy.tk/tougao/
 repo_url: https://github.com/a-boy/tougao
+edit_uri: https://github.com/a-boy/tougao/edit/main/mdsrc/
 site_author: Cody Luo
+docs_dir: mdsrc
+site_dir: docs

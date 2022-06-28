@@ -3,4 +3,4 @@
 
 
 ## Mkdocs驱动
-稿件一般为Markdown文件，存放在 `mdsrc`下，`docs`作为生成HTML的site_dir
+稿件一般为Markdown格式，.md存放在 `docs`下，`site`作为生成HTML的site_dir
